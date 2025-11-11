@@ -12,8 +12,8 @@ This script fetches a json data from https://jsonplaceholder.typicode.com/users,
 
 ## Requirements
 
-Python 3
-requests library - can be installed via "pip install requests"
+1. Python 3
+2. "requests" library - can be installed via "pip install requests"
 
 ## How to run the Script
 
